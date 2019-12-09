@@ -1,7 +1,6 @@
 package info;
 import java.util.Scanner;
-public class Info {
-    
+public class Info {  
    public static void main(String[] args) {
       Scanner scn = new Scanner (System.in);
       System.out.println("Hello"); 
