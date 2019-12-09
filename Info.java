@@ -10,7 +10,7 @@ public class Info {
       String age = scn.nextLine();
       System.out.println ("What is you address?");
       String address = scn.nextLine ();
-      System.out.println ("Hi "+name +" ,Your age is "+age+" ,You live at "+ address);  
+      System.out.println ("Hi "+name +" ,Your age is "+age+" ,You lived at "+ address);  
     }
     
 }
