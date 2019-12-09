@@ -1,7 +1,7 @@
 package info;
 import java.util.Scanner;
 public class Info {  
-   ublic static void main(String[] args) {
+   public static void main(String[] args) {
       Scanner scn = new Scanner (System.in);
       System.out.println("Hello"); 
       System.out.println("What is your name?");
